@@ -11,6 +11,7 @@
 .idea/
 .idea/*
 log/*.log
+*.log
 
 ## Specific to RubyMotion:
 .dat*
